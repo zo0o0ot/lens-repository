@@ -1,0 +1,1 @@
+Autofocus Prime lens.
