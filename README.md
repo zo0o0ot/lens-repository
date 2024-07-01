@@ -12,6 +12,7 @@ Prime Lenses:
 * Sears 50mm f2.0 / Pentax PK mount
 * Yashica ML 50mm f1.9 / CY mount
 * [TTartisan 56mm f1.8 AF / Sony E mount](./primes/e-mount/ttartisan56mm18.md)
+* Sigma 90mm f2.8 / Minolta A mount 
 * Focal 135mm f2.8 / Minolta MD mount
 * Lentar Mirror 500mm f8 / Telescope T mount
 
