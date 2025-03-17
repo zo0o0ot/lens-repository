@@ -8,6 +8,8 @@ Here is what is currently "in the rotation":
 Prime Lenses:
 * 7artisans 25mm f1.8 / Sony E mount
 * Fotasy 35mm f1.6 / Sony E mount
+* TTArtisan 35mm f1.4 / Sony E mount
+* TTArtisan 35mm f1.8 AF / Sony E mount
 * Minolta MD ROKKOR-X 45mm f2 / Minolta MD mount
 * Nikkor-S 50mm f.1.4 / Nikon F mount
 * Sears 50mm f2.0 / Pentax PK mount
@@ -35,13 +37,21 @@ Sold:
 
 ## Lenses I'm using for my Sony A35 Camera
 Prime Lenses:
+* Minolta MAXXUM AF 50mm f1.7 / Minolta A mount 
 * Sigma 90mm f2.8 / Minolta A mount 
 
 Zoom Lenses:
+* Minolta MAXXUM AF 28-80 f3.5-4.5 - Plastic / Minolta A mount
 * Tamron AF 35-90mm f4-5.6 / Minolta A mount
-
+* Minolta MAXXUM AF 35-105 f3.5-4.5 - Metal / Minolta A mount
+* Minolta MAXXUM AF 35-105 f3.5-4.5 - Plastic / Minolta A mount
+* Minolta MAXXUM AF 70-210 f4 "Beer Can" - Metal / Minolta A mount
+* Minolta MAXXUM AF 70-210 f4.5-5.6 - Plastic / Minolta A mount
+* RYKA MC AF 75-200 f4.5 - Plastic / Minolta A mount
+* Minolta MAXXUM AF 75-300 f4.5-5.6 - Plastic / Minolta A mount
+    
 Probably on their way out of the rotation:
-* Minolta MAXXUM AF 35-105 f3.5-4.5 / Minolta A mount
+* Sigma AF 28-80mm f3.5-5.6 / Minolta A mount
 
 ### Here is what is currently "out of the rotation":
 * Canon EFS 18-55mm f4-5.6 / Canon EFS mount
