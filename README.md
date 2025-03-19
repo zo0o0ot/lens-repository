@@ -35,7 +35,7 @@ Sold:
 * Lentar Mirror 500mm f8 / Telescope T mount (Sold 9/13/24)
 * Canon FD 50mm f1.8 / Canon FD mount (Sold 9/13/24)
 
-## Lenses I'm using for my Sony A35 Camera
+## Lenses for my Sony A35 Camera
 Prime Lenses:
 * Minolta MAXXUM AF 50mm f1.7 / Minolta A mount 
 * Sigma 90mm f2.8 / Minolta A mount 
