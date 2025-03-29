@@ -6,11 +6,13 @@ A repository of the lenses I'm using.
 Here is what is currently "in the rotation":
 
 Prime Lenses:
+* TTArtisan 17mm f1.4 / Sony E mount
 * 7artisans 25mm f1.8 / Sony E mount
 * Fotasy 35mm f1.6 / Sony E mount
 * TTArtisan 35mm f1.4 / Sony E mount
 * TTArtisan 35mm f1.8 AF / Sony E mount
 * Minolta MD ROKKOR-X 45mm f2 / Minolta MD mount
+* TTArtisan 50mm f1.2 / Sony E mount
 * Nikkor-S 50mm f.1.4 / Nikon F mount
 * Sears 50mm f2.0 / Pentax PK mount
 * Yashica ML 50mm f1.9 / CY mount
