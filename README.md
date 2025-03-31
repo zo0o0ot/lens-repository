@@ -6,7 +6,7 @@ A repository of the lenses I'm using.
 Here is what is currently "in the rotation":
 
 Prime Lenses:
-* TTArtisan 17mm f1.4 / Sony E mount
+* [TTArtisan 17mm f1.4 / Sony E mount](./primes/e-mount/ttartisan17mmf14.md)
 * 7artisans 25mm f1.8 / Sony E mount
 * Fotasy 35mm f1.6 / Sony E mount
 * TTArtisan 35mm f1.4 / Sony E mount
