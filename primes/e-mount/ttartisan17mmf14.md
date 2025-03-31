@@ -2,6 +2,7 @@ Info:
 
 * Manual focus Prime lens.
 * [TTArtisan lens link](https://www.ttartisan.com/?list_10/122.html)
+* [Review - Mark Wiemels](https://youtu.be/-TKXmij0axk?si=yUfCio9QVAYwUqOw)
 * [Review - Richard Wong](https://youtu.be/W5Ia1Yh4vtM?si=Faj8n9n34E9DD30_)
 * [Review - Qippy's Channel](https://youtu.be/HcIAYGUDcR0?si=qR0REL2O9yVMCKJ7)
 * [Review - Victor Laforteza](https://youtu.be/Iq7E4qAq84k?si=5lL1jBGShYoap076)
