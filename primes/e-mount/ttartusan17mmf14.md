@@ -7,6 +7,7 @@ Info:
 
 My feelings:
 * At this point, this is the widest angle prime lens I own.
+* f1.4 means that there is quite a bit of background blur if desired.
 * The minimum focus distance is very close, like 20 cm or 8 inches away. It makes for some interesting macro-ish pictures
 * I got it used for $50, and for the price, it performs quite well.
 
