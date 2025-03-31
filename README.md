@@ -17,7 +17,7 @@ Prime Lenses:
 * Sears 50mm f2.0 / Pentax PK mount
 * Yashica ML 50mm f1.9 / CY mount
 * Olympus OM Zuiko Macro 50mm f3.5 / OM Mount
-* [TTartisan 56mm f1.8 AF / Sony E mount](./primes/e-mount/ttartisan56mm18.md)
+* [TTartisan 56mm f1.8 AF / Sony E mount](./primes/e-mount/ttartisan56mmf18.md)
 * Focal 135mm f2.8 / Minolta MD mount
 
 Zoom Lenses:
