@@ -12,3 +12,9 @@ My feelings:
 * I got it used for $50, and for the price, it performs quite well.
 
 Sample images:
+![_DSC4919](https://github.com/user-attachments/assets/c1d74473-028e-4a73-bd3a-969567d7c0e3)
+
+![_DSC4922](https://github.com/user-attachments/assets/68fea80c-026d-451e-aa04-dfd50f6a41c4)
+
+![_DSC4926](https://github.com/user-attachments/assets/b9818c83-dd94-451e-a9e2-e16b884af2e0)
+
