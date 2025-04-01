@@ -12,7 +12,7 @@ Prime Lenses:
 * TTArtisan 35mm f1.4 / Sony E mount
 * TTArtisan 35mm f1.8 AF / Sony E mount
 * Minolta MD ROKKOR-X 45mm f2 / Minolta MD mount
-* TTArtisan 50mm f1.2 / Sony E mount
+* [TTArtisan 50mm f1.2 / Sony E mount](./primes/e-mount/ttartisan50mmf12.md)
 * Nikkor-S 50mm f.1.4 / Nikon F mount
 * Sears 50mm f2.0 / Pentax PK mount
 * Yashica ML 50mm f1.9 / CY mount
