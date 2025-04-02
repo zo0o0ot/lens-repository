@@ -40,7 +40,7 @@ Sold:
 ## Lenses for my Sony A35 Camera
 Prime Lenses:
 * Minolta MAXXUM AF 50mm f1.7 / Minolta A mount 
-* Sigma 90mm f2.8 / Minolta A mount 
+* [Sigma 90mm f2.8 / Minolta A mount](./primes/a-mount/sigma90mmf28.md)
 
 Zoom Lenses:
 * Minolta MAXXUM AF 28-80 f3.5-4.5 - Plastic / Minolta A mount
