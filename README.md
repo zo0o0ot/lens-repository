@@ -10,6 +10,7 @@ Prime Lenses:
 * 7artisans 25mm f1.8 / Sony E mount
 * Fotasy 35mm f1.6 / Sony E mount
 * TTArtisan 35mm f1.4 / Sony E mount
+* TTArtisan Tilt 35mm f1.4 / Sony E mount
 * TTArtisan 35mm f1.8 AF / Sony E mount
 * Minolta MD ROKKOR-X 45mm f2 / Minolta MD mount
 * [TTArtisan 50mm f1.2 / Sony E mount](./primes/e-mount/ttartisan50mmf12.md)
