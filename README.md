@@ -30,9 +30,10 @@ Zoom Lenses:
 
 ### Spare adapters:
 * Ricoh-Rikenon KR to Sony E mount adapter
-* Canon FD to Sony E mount adapter x2
+* Canon FD to Sony E mount adapter
 * CCTV C to Sony E mount adapter
 * Leica L39 to Sony E mount adapter
+* Pentax PK to Sony E mount adapter x2
 
 ### Sold/Gave away:
 * Lentar Mirror 500mm f8 / Telescope T mount (Sold 9/13/24)
