@@ -16,7 +16,7 @@ Prime Lenses:
 * Minolta MD ROKKOR-X 45mm f2 / Minolta MD mount
 * [TTArtisan 50mm f1.2 / Sony E mount](./primes/e-mount/ttartisan50mmf12.md)
 * Nikkor-S 50mm f.1.4 / Nikon F mount
-* Sears 50mm f2.0 / Pentax PK mount
+
 * Yashica ML 50mm f1.9 / CY mount
 * Olympus OM Zuiko Macro 50mm f3.5 / OM Mount
 * [TTartisan 56mm f1.8 AF / Sony E mount](./primes/e-mount/ttartisan56mmf18.md)
@@ -24,7 +24,6 @@ Prime Lenses:
 
 Zoom Lenses:
 * [Sony SELP1650 16-50mm f3.5-5.6 AF / Sony E mount](./zooms/e-mount/selp1650.md)
-* Sigma 28-70mm f3.5-4.5 / Pentax PK mount
 * Vivitar 70-150mm f3.8 / Olympus OM mount
 * Quantaray 85-210mm f3.8 / M42 mount
 * Promaster 70-300mm f4-5.6 / Nikon F mount
@@ -35,9 +34,11 @@ Zoom Lenses:
 * CCTV C to Sony E mount adapter
 * Leica L39 to Sony E mount adapter
 
-Sold:
+Sold/Gave away:
 * Lentar Mirror 500mm f8 / Telescope T mount (Sold 9/13/24)
 * Canon FD 50mm f1.8 / Canon FD mount (Sold 9/13/24)
+* Sears 50mm f2.0 / Pentax PK mount
+* Sigma 28-70mm f3.5-4.5 / Pentax PK mount
 
 ## Lenses for my Sony A35 Camera
 Prime Lenses:
