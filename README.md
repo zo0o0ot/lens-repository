@@ -34,7 +34,7 @@ Zoom Lenses:
 * CCTV C to Sony E mount adapter
 * Leica L39 to Sony E mount adapter
 
-Sold/Gave away:
+### Sold/Gave away:
 * Lentar Mirror 500mm f8 / Telescope T mount (Sold 9/13/24)
 * Canon FD 50mm f1.8 / Canon FD mount (Sold 9/13/24)
 * Sears 50mm f2.0 / Pentax PK mount
