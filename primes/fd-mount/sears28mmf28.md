@@ -6,7 +6,7 @@ Info:
     - f=28mm    1:2.8   52mm lens size  No. 850604255   AUTO    MULTI-COATED
 
 My feelings:
-* The minimum focus distance of the lens is very close, but the focal plane is razor thin for macro shots. It looks pretty good in non-macro settings. There appears to be a fair amount of glow when there are light sources in the image.
+* The minimum focus distance of the lens is very close, but the focal plane is razor thin for macro shots. It looks pretty good in non-macro settings. There appears to be a fair amount of bloom when there are light sources in the image. Generally, the colors seem to be a bit cool.
 
 Images taken with lens:
 ![_DSC5256](https://github.com/user-attachments/assets/2bfd430c-17be-48b7-95ec-9dbcc18d5481)
