@@ -18,3 +18,5 @@ Images taken with lens:
 ![_DSC5266](https://github.com/user-attachments/assets/9fa69c76-1d7b-47ac-9885-f5c6c660ca49)
 
 ![_DSC5260](https://github.com/user-attachments/assets/79e7f326-0515-4f7a-affe-43c1e161e551)
+
+![_DSC5300](https://github.com/user-attachments/assets/45b7eed9-1f94-413b-8c2e-77536b2733fe)
