@@ -13,3 +13,15 @@ My feelings:
 * Declicked aperture is strange if you're used to clicking apertures from vintage lenses
 
 Sample images:
+
+![_DSC4523](https://github.com/user-attachments/assets/19751432-a3fe-4295-95d8-fd9dca61fbfe)
+
+![_DSC5313](https://github.com/user-attachments/assets/141416af-4336-4285-b823-66e4a0795efa)
+
+![_DSC5307](https://github.com/user-attachments/assets/c78683be-4ff0-4a07-87f6-4f13a1a40a9b)
+
+![_DSC5320](https://github.com/user-attachments/assets/228c36be-09e7-4c33-b0d0-59dbdefd5568)
+
+
+
+
