@@ -7,7 +7,7 @@ Here is what is currently "in the rotation":
 
 Prime Lenses:
 * [TTArtisan 17mm f1.4 / Sony E mount](./primes/e-mount/ttartisan17mmf14.md)
-* 7artisans 25mm f1.8 / Sony E mount
+* [7artisans 25mm f1.8 / Sony E mount](./primes/e-mount/7artisans25mmf18.md)
 * [Sears 28mm f2.8 Macro / Canon FD mount](./primes/fd-mount/sears28mmf28.md)
 * Fotasy 35mm f1.6 / Sony E mount
 * TTArtisan 35mm f1.4 / Sony E mount
